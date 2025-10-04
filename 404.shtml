@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="viewport" content="initial-scale=1.0, width=device-width">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="copyright" content="All rights reserved">
+  <title>RajbariIT — Digital Marketing Agency</title>
+  <meta name="description" content="RajbariIT — Grow your business with smart digital marketing. SEO, Social Media, PPC and Content.">
+  <meta name="author" content="Rajbari IT">
+  <meta name="robots" content="index, follow">
+  <meta property="og:title" content=RajbariIT — Digital Marketing Agency>
+  <meta property="og:site_name" content=Rajbari IT>
+  <meta property="og:url" content=https://www.rajbariit.com />
+  <meta property="og:description" content=Grow your business with smart digital marketing. SEO, Social Media, PPC and Content.>
+  <meta property="og:type" content=website>
+  <meta property="og:image" content=https://www.rajbariit.com/assets/midea/img/open-graph/rajbariit-open-graph-1.png>
+  <meta property="og:image" content=https://www.rajbariit.com/assets/midea/img/open-graph/rajbariit-open-graph-2.png>
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="RajbariIT — Digital Marketing Agency">
+  <meta name="twitter:site" content="@RajbariIT">
+  <meta name="twitter:description"content="Grow your business with smart digital marketing. SEO, Social Media, PPC and Content.">
+  <meta name="twitter:image" content="https://www.rajbariit.com/assets/midea/img/open-graph/rajbariit-open-graph-1.png">
+  <meta name="twitter:image:alt" content="rajbariit-card">
+  <link rel="canonical" href="https://rajbariit.com/404.html">
+  <link rel="icon" type="image/x-icon" href="assets\midea\img\logo\icon.svg">
+  <style>
+    *{box-sizing:border-box}
+    html,body{height:100%;margin:0}
+    body{display:flex;flex-direction:column;min-height:100vh;font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;background:#0b0d16;color:#eef0ff}
+    header,footer{padding:18px 24px;background:rgba(255,255,255,0.02);backdrop-filter:blur(4px); text-align: center;}
+    header{border-bottom:1px solid rgba(255,255,255,0.03)}
+    footer{margin-top:auto;border-top:1px solid rgba(255,255,255,0.03);font-size:13px;color:rgba(238,240,255,0.6)}
+    .container{flex:1;display:grid;place-items:center;padding:40px}
+    .big{font-weight:900;font-size:clamp(96px,18vw,220px);line-height:1;margin:0;letter-spacing:-6px;
+         background:linear-gradient(180deg,#ffffff,#b9c2ff);-webkit-background-clip:text;background-clip:text;color:transparent;text-align:center}
+  </style>
+</head>
+<body>
+  <header>
+    <div style="font-weight:700"><a style="text-decoration: none; color: #b9c2ff; " href="https://rajbariit.com/">Back To Rajbari <span style="color: #06b6d4;">IT</span></a></div>
+  </header>
+
+  <main class="container" role="main" aria-labelledby="code">
+    <h1 id="code" class="big">404</h1>
+  </main>
+
+  <footer>
+    <div>The page you are looking for could not be found.</div>
+  </footer>
+
+  <script>
+    // Use this file as your site's 404 page (e.g. configure your server to serve /404.html on 404 errors).
+    // Example (Apache): ErrorDocument 404 /404.html
+    document.title = '404 — Page Not Found';
+  </script>
+</body>
+</html>
